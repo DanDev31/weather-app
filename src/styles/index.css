@@ -1,0 +1,62 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 62.5%;
+}
+
+body {
+  background-color: rgb(230, 230, 230);
+  font-family: 'Rubik', sans-serif;
+}
+
+.container{
+  text-align: center;
+}
+
+.container h1{
+  font-weight: bold;
+  letter-spacing: .2rem;
+}
+
+.lead{
+  font-size: 2rem;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1{
+  font-size: 3rem;
+}
+
+h2{
+  font-size: 2.5rem;
+}
+
+h3{
+  font-size: 2.2rem;
+}
+
+h4{
+  font-size: 2rem;
+}
+
+p, span{
+  font-size: 1.6rem;
+}
+
+.icon{
+  color: rgb(243, 123, 11);
+}
+
+img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

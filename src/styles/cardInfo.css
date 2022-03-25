@@ -1,0 +1,27 @@
+.card__info{
+    /* background-color: rgb(223, 223, 223); */
+    background-color: rgb(94, 103, 156);
+    color: white;
+    box-shadow: 2px 2px 10px 2px rgb(107, 107, 107);
+    max-width: 80rem;
+    margin: 3rem auto;
+    padding: 4rem;
+    width: 85%;
+}
+
+.card__info-title{
+    font-size: 4rem;
+    margin-bottom: 4rem;
+    padding: 1rem 0;
+    text-align: center;
+    letter-spacing: 1.5px;
+}
+
+
+.card__info-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    letter-spacing: 1.2px;
+}
+
